@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "GKSide"
-s.version      = "1.0.3"
+s.version      = "1.0.4"
 s.summary      = "GKSide component"
 
 # This description is used to generate tags and improve search results.
@@ -126,7 +126,7 @@ s.source_files  = "library/GKSideMenu.h"
 #  If your library depends on compiler flags you can set them in the xcconfig hash
 #  where they will only apply to your library. If you depend on other Podspecs
 #  you can include multiple dependencies to ensure it works.
-
+iCarousel
 # s.requires_arc = true
 
 # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
